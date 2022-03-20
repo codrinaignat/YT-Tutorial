@@ -1,0 +1,38 @@
+#tabel{
+    color:black; 
+	padding:50px; 
+	border:5px solid gray; 
+	border-collapse: collapse;
+}
+
+#text{
+    color:rgb(14, 13, 13);
+    background-color: rgb(126, 126, 212);
+}
+
+#butonas{
+	border-radius:20px; 
+	height:30px; 
+	width:80px; 
+	background-color:#34ebe5; 
+	font-weight:1000;
+}
+
+body{
+	background-image: url("https://images.unsplash.com/photo-1582738411706-bfc8e691d1c2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max");
+    
+}
+
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    text-align: center;
+    text-shadow: black;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(14, 14, 13);
+    float: left;
+    position: relative;
+    
+}
